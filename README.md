@@ -1,2 +1,2 @@
 # portfolio
-chatGPT generated portfolio site
+chatGPT generated my portfolio site
