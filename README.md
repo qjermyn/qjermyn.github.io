@@ -1,2 +1,2 @@
-# portfolio
-chatGPT generated my portfolio site
+# quincyjermyn.com
+ChatGPT generated my personal site
